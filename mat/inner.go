@@ -7,7 +7,7 @@ package mat
 import (
 	"gonum.org/v1/gonum/blas"
 	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/internal/asm/f64"
+	"github.com/jingcheng-WU/gonum/internal/asm/f64"
 )
 
 // Inner computes the generalized inner product
