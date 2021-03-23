@@ -6,7 +6,7 @@ package mat
 
 import (
 	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/floats"
+	"github.com/jingcheng-WU/gonum/floats"
 	"gonum.org/v1/gonum/lapack"
 	"gonum.org/v1/gonum/lapack/lapack64"
 )
