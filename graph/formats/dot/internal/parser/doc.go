@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package parser provides generated internal parsing functions for DOT parsing.
-package parser // import "gonum.org/v1/gonum/graph/formats/dot/internal/parser"
+package parser // import "github.com/jingcheng-WU/gonum/graph/formats/dot/internal/parser"

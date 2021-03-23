@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/mat"
-	"gonum.org/v1/gonum/stat/distmv"
+	"github.com/jingcheng-WU/gonum/mat"
+	"github.com/jingcheng-WU/gonum/stat/distmv"
 )
 
 func TestHalton(t *testing.T) {

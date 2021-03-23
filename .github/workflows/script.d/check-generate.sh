@@ -4,13 +4,13 @@
 # any writes during the build.
 git reset --hard
 
-go generate gonum.org/v1/gonum/blas
-go generate gonum.org/v1/gonum/blas/gonum
-go generate gonum.org/v1/gonum/unit
-go generate gonum.org/v1/gonum/unit/constant
-go generate gonum.org/v1/gonum/graph/formats/dot
-go generate gonum.org/v1/gonum/graph/formats/rdf
-go generate gonum.org/v1/gonum/stat/card
+go generate github.com/jingcheng-WU/gonum/blas
+go generate github.com/jingcheng-WU/gonum/blas/gonum
+go generate github.com/jingcheng-WU/gonum/unit
+go generate github.com/jingcheng-WU/gonum/unit/constant
+go generate github.com/jingcheng-WU/gonum/graph/formats/dot
+go generate github.com/jingcheng-WU/gonum/graph/formats/rdf
+go generate github.com/jingcheng-WU/gonum/stat/card
 
 if [ -n "$(git diff)" ]; then	
 	git diff

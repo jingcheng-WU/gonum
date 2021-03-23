@@ -9,10 +9,10 @@ import (
 	"os/exec"
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/encoding"
-	"gonum.org/v1/gonum/graph/multi"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jingcheng-WU/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph/encoding"
+	"github.com/jingcheng-WU/gonum/graph/multi"
+	"github.com/jingcheng-WU/gonum/graph/simple"
 )
 
 // intset is an integer set.

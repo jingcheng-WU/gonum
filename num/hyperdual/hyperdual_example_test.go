@@ -7,7 +7,7 @@ package hyperdual_test
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/num/hyperdual"
+	"github.com/jingcheng-WU/gonum/num/hyperdual"
 )
 
 func ExampleNumber_fike() {

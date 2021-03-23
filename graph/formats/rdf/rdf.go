@@ -21,7 +21,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"gonum.org/v1/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph"
 )
 
 var (

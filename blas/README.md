@@ -1,11 +1,11 @@
-# Gonum BLAS [![GoDoc](https://godoc.org/gonum.org/v1/gonum/blas?status.svg)](https://godoc.org/gonum.org/v1/gonum/blas)
+# Gonum BLAS [![GoDoc](https://godoc.org/github.com/jingcheng-WU/gonum/blas?status.svg)](https://godoc.org/github.com/jingcheng-WU/gonum/blas)
 
 A collection of packages to provide BLAS functionality for the [Go programming
 language](http://golang.org)
 
 ## Installation
 ```sh
-  go get gonum.org/v1/gonum/blas/...
+  go get github.com/jingcheng-WU/gonum/blas/...
 ```
 
 ## Packages
@@ -30,7 +30,7 @@ package main
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/jingcheng-WU/gonum/blas/blas64"
 )
 
 func main() {

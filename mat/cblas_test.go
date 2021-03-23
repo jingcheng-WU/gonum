@@ -7,7 +7,7 @@
 package mat
 
 import (
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/jingcheng-WU/gonum/blas/blas64"
 	"gonum.org/v1/netlib/blas/netlib"
 )
 

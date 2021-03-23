@@ -9,10 +9,10 @@ import (
 	"sync"
 	"testing"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/graphs/gen"
-	"gonum.org/v1/gonum/graph/simple"
-	"gonum.org/v1/gonum/graph/traverse"
+	"github.com/jingcheng-WU/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph/graphs/gen"
+	"github.com/jingcheng-WU/gonum/graph/simple"
+	"github.com/jingcheng-WU/gonum/graph/traverse"
 )
 
 var (

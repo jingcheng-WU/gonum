@@ -4,7 +4,7 @@
 
 package ordered
 
-import "gonum.org/v1/gonum/graph"
+import "github.com/jingcheng-WU/gonum/graph"
 
 // ByID implements the sort.Interface sorting a slice of graph.Node
 // by ID.

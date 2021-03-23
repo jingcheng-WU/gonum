@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"math"
 
-	"gonum.org/v1/gonum/floats"
-	"gonum.org/v1/gonum/integrate"
-	"gonum.org/v1/gonum/stat"
+	"github.com/jingcheng-WU/gonum/floats"
+	"github.com/jingcheng-WU/gonum/integrate"
+	"github.com/jingcheng-WU/gonum/stat"
 )
 
 func ExampleROC_weighted() {

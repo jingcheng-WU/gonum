@@ -7,9 +7,9 @@ package product
 import (
 	"sort"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/stat/combin"
+	"github.com/jingcheng-WU/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph/internal/ordered"
+	"github.com/jingcheng-WU/gonum/stat/combin"
 )
 
 // Node is a product of two graph nodes.

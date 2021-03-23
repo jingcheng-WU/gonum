@@ -7,7 +7,7 @@ package unit_test
 import (
 	"fmt"
 
-	"gonum.org/v1/gonum/unit"
+	"github.com/jingcheng-WU/gonum/unit"
 )
 
 func ExampleNew() {

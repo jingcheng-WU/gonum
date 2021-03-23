@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph"
 )
 
 // Interval is an interval of resolutions with a common score.

@@ -13,8 +13,8 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/cmplxs/cscalar"
-	"gonum.org/v1/gonum/floats"
+	"github.com/jingcheng-WU/gonum/cmplxs/cscalar"
+	"github.com/jingcheng-WU/gonum/floats"
 )
 
 const (

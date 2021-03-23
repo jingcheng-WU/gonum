@@ -12,8 +12,8 @@ import (
 	"sort"
 	"strings"
 
-	"gonum.org/v1/gonum/graph/simple"
-	"gonum.org/v1/gonum/graph/topo"
+	"github.com/jingcheng-WU/gonum/graph/simple"
+	"github.com/jingcheng-WU/gonum/graph/topo"
 )
 
 var systems = []string{

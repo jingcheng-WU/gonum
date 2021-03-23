@@ -10,8 +10,8 @@ import (
 	"log"
 	"math"
 
-	"gonum.org/v1/gonum/graph/layout"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jingcheng-WU/gonum/graph/layout"
+	"github.com/jingcheng-WU/gonum/graph/simple"
 	"gonum.org/v1/plot"
 	"gonum.org/v1/plot/font"
 	"gonum.org/v1/plot/plotter"

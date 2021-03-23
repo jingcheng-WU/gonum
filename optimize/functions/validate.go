@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/diff/fd"
-	"gonum.org/v1/gonum/floats"
+	"github.com/jingcheng-WU/gonum/diff/fd"
+	"github.com/jingcheng-WU/gonum/floats"
 )
 
 // function represents an objective function.

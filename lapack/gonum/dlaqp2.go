@@ -7,8 +7,8 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/jingcheng-WU/gonum/blas"
+	"github.com/jingcheng-WU/gonum/blas/blas64"
 )
 
 // Dlaqp2 computes a QR factorization with column pivoting of the block A[offset:m, 0:n]

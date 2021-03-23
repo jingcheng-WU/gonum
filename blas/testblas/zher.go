@@ -7,7 +7,7 @@ package testblas
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/blas"
+	"github.com/jingcheng-WU/gonum/blas"
 )
 
 var zherTestCases = []struct {

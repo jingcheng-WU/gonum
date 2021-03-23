@@ -4,7 +4,7 @@
 
 package set
 
-import "gonum.org/v1/gonum/graph"
+import "github.com/jingcheng-WU/gonum/graph"
 
 // Ints is a set of int identifiers.
 type Ints map[int]struct{}

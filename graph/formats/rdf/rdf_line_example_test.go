@@ -9,11 +9,11 @@ import (
 	"log"
 	"strings"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/encoding"
-	"gonum.org/v1/gonum/graph/encoding/dot"
-	"gonum.org/v1/gonum/graph/formats/rdf"
-	"gonum.org/v1/gonum/graph/multi"
+	"github.com/jingcheng-WU/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph/encoding"
+	"github.com/jingcheng-WU/gonum/graph/encoding/dot"
+	"github.com/jingcheng-WU/gonum/graph/formats/rdf"
+	"github.com/jingcheng-WU/gonum/graph/multi"
 )
 
 // foodNode implements graph.Node, dot.Node and encoding.Attributer

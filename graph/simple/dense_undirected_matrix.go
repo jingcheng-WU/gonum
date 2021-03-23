@@ -7,10 +7,10 @@ package simple
 import (
 	"sort"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/iterator"
-	"gonum.org/v1/gonum/mat"
+	"github.com/jingcheng-WU/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph/internal/ordered"
+	"github.com/jingcheng-WU/gonum/graph/iterator"
+	"github.com/jingcheng-WU/gonum/mat"
 )
 
 var (

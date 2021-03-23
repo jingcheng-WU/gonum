@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"math"
 
-	"gonum.org/v1/gonum/spatial/kdtree"
+	"github.com/jingcheng-WU/gonum/spatial/kdtree"
 )
 
 func Example_accessiblePublicTransport() {

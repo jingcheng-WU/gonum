@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/mathext"
+	"github.com/jingcheng-WU/gonum/mathext"
 )
 
 // Beta implements the Beta distribution, a two-parameter continuous distribution

@@ -5,9 +5,9 @@
 package topo
 
 import (
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/internal/set"
+	"github.com/jingcheng-WU/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph/internal/ordered"
+	"github.com/jingcheng-WU/gonum/graph/internal/set"
 )
 
 // DegeneracyOrdering returns the degeneracy ordering and the k-cores of

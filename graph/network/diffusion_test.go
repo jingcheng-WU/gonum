@@ -8,10 +8,10 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/simple"
-	"gonum.org/v1/gonum/graph/spectral"
+	"github.com/jingcheng-WU/gonum/floats/scalar"
+	"github.com/jingcheng-WU/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph/simple"
+	"github.com/jingcheng-WU/gonum/graph/spectral"
 )
 
 var diffuseTests = []struct {

@@ -7,10 +7,10 @@ package c64_test
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/cmplxs/cscalar"
-	"gonum.org/v1/gonum/floats/scalar"
-	"gonum.org/v1/gonum/internal/cmplx64"
-	"gonum.org/v1/gonum/internal/math32"
+	"github.com/jingcheng-WU/gonum/cmplxs/cscalar"
+	"github.com/jingcheng-WU/gonum/floats/scalar"
+	"github.com/jingcheng-WU/gonum/internal/cmplx64"
+	"github.com/jingcheng-WU/gonum/internal/math32"
 )
 
 const (

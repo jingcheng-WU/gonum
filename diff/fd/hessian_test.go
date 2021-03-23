@@ -7,7 +7,7 @@ package fd
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/mat"
+	"github.com/jingcheng-WU/gonum/mat"
 )
 
 type HessianTester interface {

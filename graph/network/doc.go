@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package network provides network analysis functions.
-package network // import "gonum.org/v1/gonum/graph/network"
+package network // import "github.com/jingcheng-WU/gonum/graph/network"

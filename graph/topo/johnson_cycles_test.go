@@ -9,8 +9,8 @@ import (
 	"sort"
 	"testing"
 
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jingcheng-WU/gonum/graph/internal/ordered"
+	"github.com/jingcheng-WU/gonum/graph/simple"
 )
 
 var cyclesInTests = []struct {

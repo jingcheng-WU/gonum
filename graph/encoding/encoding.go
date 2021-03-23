@@ -4,7 +4,7 @@
 
 package encoding
 
-import "gonum.org/v1/gonum/graph"
+import "github.com/jingcheng-WU/gonum/graph"
 
 // Builder is a graph that can have user-defined nodes and edges added.
 type Builder interface {

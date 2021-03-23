@@ -4,7 +4,7 @@
 
 package fourier
 
-import "gonum.org/v1/gonum/dsp/fourier/internal/fftpack"
+import "github.com/jingcheng-WU/gonum/dsp/fourier/internal/fftpack"
 
 // FFT implements Fast Fourier Transform and its inverse for real sequences.
 type FFT struct {

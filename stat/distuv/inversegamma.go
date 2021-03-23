@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/mathext"
+	"github.com/jingcheng-WU/gonum/mathext"
 )
 
 // InverseGamma implements the inverse gamma distribution, a two-parameter

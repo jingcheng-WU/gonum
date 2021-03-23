@@ -11,9 +11,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/graph/community"
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jingcheng-WU/gonum/graph/community"
+	"github.com/jingcheng-WU/gonum/graph/internal/ordered"
+	"github.com/jingcheng-WU/gonum/graph/simple"
 )
 
 func ExampleProfile_simple() {

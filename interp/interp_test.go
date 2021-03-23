@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/floats"
+	"github.com/jingcheng-WU/gonum/floats"
 )
 
 func TestConstant(t *testing.T) {

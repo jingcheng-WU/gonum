@@ -4,7 +4,7 @@
 
 package iterator
 
-import "gonum.org/v1/gonum/graph"
+import "github.com/jingcheng-WU/gonum/graph"
 
 // OrderedLines implements the graph.Lines and graph.LineSlicer interfaces.
 // The iteration order of OrderedLines is the order of lines passed to

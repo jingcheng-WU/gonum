@@ -5,9 +5,9 @@
 package gonum
 
 import (
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/internal/asm/f32"
-	"gonum.org/v1/gonum/internal/asm/f64"
+	"github.com/jingcheng-WU/gonum/blas"
+	"github.com/jingcheng-WU/gonum/internal/asm/f32"
+	"github.com/jingcheng-WU/gonum/internal/asm/f64"
 )
 
 // TODO(Kunde21):  Merge these methods back into level2double/level2single when Sgemv assembly kernels are merged into f32.

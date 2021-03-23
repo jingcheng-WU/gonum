@@ -10,11 +10,11 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/set"
-	"gonum.org/v1/gonum/graph/iterator"
-	"gonum.org/v1/gonum/graph/multi"
-	"gonum.org/v1/gonum/graph/testgraph"
+	"github.com/jingcheng-WU/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph/internal/set"
+	"github.com/jingcheng-WU/gonum/graph/iterator"
+	"github.com/jingcheng-WU/gonum/graph/multi"
+	"github.com/jingcheng-WU/gonum/graph/testgraph"
 )
 
 func directedBuilder(nodes []graph.Node, edges []testgraph.WeightedLine, _, _ float64) (g graph.Graph, n []graph.Node, e []testgraph.Edge, s, a float64, ok bool) {

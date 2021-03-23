@@ -27,7 +27,7 @@ jobs:
         GOPATH: ${{ github.workspace }}
     defaults:
         run:
-            working-directory: ${{ env.GOPATH }}/src/gonum.org/v1/gonum
+            working-directory: ${{ env.GOPATH }}/src/github.com/jingcheng-WU/gonum
 
     steps:
     - name: Install Go
@@ -51,7 +51,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
-          path: ${{ env.GOPATH }}/src/gonum.org/v1/gonum
+          path: ${{ env.GOPATH }}/src/github.com/jingcheng-WU/gonum
 
     - name: Coverage
       if: matrix.platform == 'ubuntu-latest'

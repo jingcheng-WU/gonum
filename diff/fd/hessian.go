@@ -8,7 +8,7 @@ import (
 	"math"
 	"sync"
 
-	"gonum.org/v1/gonum/mat"
+	"github.com/jingcheng-WU/gonum/mat"
 )
 
 // Hessian approximates the Hessian matrix of the multivariate function f at

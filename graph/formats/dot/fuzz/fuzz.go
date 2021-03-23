@@ -10,7 +10,7 @@ import (
 	"bytes"
 	"os/exec"
 
-	"gonum.org/v1/gonum/graph/formats/dot"
+	"github.com/jingcheng-WU/gonum/graph/formats/dot"
 )
 
 // Fuzz implements the fuzzing function required for go-fuzz.

@@ -13,9 +13,9 @@ import (
 	"strconv"
 	"strings"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/encoding"
-	"gonum.org/v1/gonum/graph/internal/ordered"
+	"github.com/jingcheng-WU/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph/encoding"
+	"github.com/jingcheng-WU/gonum/graph/internal/ordered"
 )
 
 // Node is a DOT graph node.

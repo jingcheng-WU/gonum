@@ -10,7 +10,7 @@ import (
 	"os"
 	"text/tabwriter"
 
-	"gonum.org/v1/gonum/interp"
+	"github.com/jingcheng-WU/gonum/interp"
 )
 
 func ExamplePredictor() {

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"math"
 
-	"gonum.org/v1/gonum/num/dualcmplx"
+	"github.com/jingcheng-WU/gonum/num/dualcmplx"
 )
 
 // Example point, displacement and rotation from Euclidean Space Dual Complex Number page:

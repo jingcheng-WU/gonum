@@ -7,7 +7,7 @@ package gonum
 import (
 	"testing"
 
-	"gonum.org/v1/gonum/lapack/testlapack"
+	"github.com/jingcheng-WU/gonum/lapack/testlapack"
 )
 
 func BenchmarkDgeev(b *testing.B)  { testlapack.DgeevBenchmark(b, impl) }

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"gonum.org/v1/gonum/cmplxs/cscalar"
+	"github.com/jingcheng-WU/gonum/cmplxs/cscalar"
 )
 
 var dotTests = []struct {

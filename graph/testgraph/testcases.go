@@ -7,7 +7,7 @@ package testgraph
 import (
 	"math"
 
-	"gonum.org/v1/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph"
 )
 
 // node is a graph.Node implementation that is not exported

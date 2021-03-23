@@ -7,7 +7,7 @@ package r3
 import (
 	"math"
 
-	"gonum.org/v1/gonum/num/quat"
+	"github.com/jingcheng-WU/gonum/num/quat"
 )
 
 // Vec is a 3D vector.

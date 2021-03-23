@@ -1,4 +1,4 @@
-Gonum LAPACK [![GoDoc](https://godoc.org/gonum.org/v1/gonum/lapack?status.svg)](https://godoc.org/gonum.org/v1/gonum/lapack)
+Gonum LAPACK [![GoDoc](https://godoc.org/github.com/jingcheng-WU/gonum/lapack?status.svg)](https://godoc.org/github.com/jingcheng-WU/gonum/lapack)
 ======
 
 A collection of packages to provide LAPACK functionality for the Go programming
@@ -8,7 +8,7 @@ and a wrapper using cgo to a c-based implementation.
 ## Installation
 
 ```
-  go get gonum.org/v1/gonum/lapack/...
+  go get github.com/jingcheng-WU/gonum/lapack/...
 ```
 
 ## Packages

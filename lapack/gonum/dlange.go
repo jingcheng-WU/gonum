@@ -7,7 +7,7 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jingcheng-WU/gonum/lapack"
 )
 
 // Dlange returns the value of the specified norm of a general m×n matrix A:

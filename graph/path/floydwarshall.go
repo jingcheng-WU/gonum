@@ -7,7 +7,7 @@ package path
 import (
 	"math"
 
-	"gonum.org/v1/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph"
 )
 
 // FloydWarshall returns a shortest-path tree for the graph g or false indicating

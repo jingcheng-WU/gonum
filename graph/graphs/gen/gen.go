@@ -4,7 +4,7 @@
 
 package gen
 
-import "gonum.org/v1/gonum/graph"
+import "github.com/jingcheng-WU/gonum/graph"
 
 // GraphBuilder is a graph that can have nodes and edges added.
 type GraphBuilder interface {

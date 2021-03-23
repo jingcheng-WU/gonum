@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/floats"
+	"github.com/jingcheng-WU/gonum/floats"
 )
 
 type Dlassqer interface {

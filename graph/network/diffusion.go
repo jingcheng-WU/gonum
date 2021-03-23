@@ -5,8 +5,8 @@
 package network
 
 import (
-	"gonum.org/v1/gonum/graph/spectral"
-	"gonum.org/v1/gonum/mat"
+	"github.com/jingcheng-WU/gonum/graph/spectral"
+	"github.com/jingcheng-WU/gonum/mat"
 )
 
 // Diffuse performs a heat diffusion across nodes of the undirected

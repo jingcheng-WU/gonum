@@ -7,7 +7,7 @@ package gonum
 import (
 	"math"
 
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jingcheng-WU/gonum/lapack"
 )
 
 // Dlascl multiplies an m×n matrix by the scalar cto/cfrom.

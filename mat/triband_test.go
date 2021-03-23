@@ -9,8 +9,8 @@ import (
 	"reflect"
 	"testing"
 
-	"gonum.org/v1/gonum/blas"
-	"gonum.org/v1/gonum/blas/blas64"
+	"github.com/jingcheng-WU/gonum/blas"
+	"github.com/jingcheng-WU/gonum/blas/blas64"
 )
 
 func TestNewTriBand(t *testing.T) {

@@ -5,7 +5,7 @@
 package mathext
 
 import (
-	"gonum.org/v1/gonum/mathext/internal/cephes"
+	"github.com/jingcheng-WU/gonum/mathext/internal/cephes"
 )
 
 // GammaIncReg computes the regularized incomplete Gamma integral.

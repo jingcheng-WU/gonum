@@ -15,4 +15,4 @@
 //
 // See https://en.wikipedia.org/wiki/Graph_product for more details
 // about graph products.
-package product // import "gonum.org/v1/gonum/graph/product"
+package product // import "github.com/jingcheng-WU/gonum/graph/product"

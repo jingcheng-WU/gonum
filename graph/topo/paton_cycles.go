@@ -5,9 +5,9 @@
 package topo
 
 import (
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/linear"
-	"gonum.org/v1/gonum/graph/internal/set"
+	"github.com/jingcheng-WU/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph/internal/linear"
+	"github.com/jingcheng-WU/gonum/graph/internal/set"
 )
 
 // UndirectedCyclesIn returns a set of cycles that forms a cycle basis in the graph g.

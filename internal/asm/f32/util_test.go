@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"gonum.org/v1/gonum/floats/scalar"
+	"github.com/jingcheng-WU/gonum/floats/scalar"
 )
 
 const (

@@ -8,7 +8,7 @@ import (
 	"math"
 	"math/cmplx"
 
-	"gonum.org/v1/gonum/blas/cblas128"
+	"github.com/jingcheng-WU/gonum/blas/cblas128"
 	"github.com/jingcheng-WU/gonum/floats/scalar"
 )
 

@@ -9,8 +9,8 @@ import (
 	"math/cmplx"
 	"testing"
 
-	"gonum.org/v1/gonum/cmplxs/cscalar"
-	"gonum.org/v1/gonum/floats/scalar"
+	"github.com/jingcheng-WU/gonum/cmplxs/cscalar"
+	"github.com/jingcheng-WU/gonum/floats/scalar"
 )
 
 const (

@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
-	"gonum.org/v1/gonum/num/dual"
-	"gonum.org/v1/gonum/num/quat"
+	"github.com/jingcheng-WU/gonum/num/dual"
+	"github.com/jingcheng-WU/gonum/num/quat"
 )
 
 // Number is a float64 precision dual quaternion. A dual quaternion

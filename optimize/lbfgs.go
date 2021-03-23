@@ -5,7 +5,7 @@
 package optimize
 
 import (
-	"gonum.org/v1/gonum/floats"
+	"github.com/jingcheng-WU/gonum/floats"
 )
 
 var (

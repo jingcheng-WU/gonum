@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/gonum/integrate/testquad"
+	"github.com/jingcheng-WU/gonum/integrate/testquad"
 )
 
 func TestTrapezoidal(t *testing.T) {

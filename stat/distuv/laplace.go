@@ -9,7 +9,7 @@ import (
 	"sort"
 
 	"golang.org/x/exp/rand"
-	"gonum.org/v1/gonum/stat"
+	"github.com/jingcheng-WU/gonum/stat"
 )
 
 // Laplace represents the Laplace distribution (https://en.wikipedia.org/wiki/Laplace_distribution).

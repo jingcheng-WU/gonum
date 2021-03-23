@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"gonum.org/v1/gonum/mat"
+	"github.com/jingcheng-WU/gonum/mat"
 )
 
 func ExampleSVD_SolveTo() {

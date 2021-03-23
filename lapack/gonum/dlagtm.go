@@ -4,7 +4,7 @@
 
 package gonum
 
-import "gonum.org/v1/gonum/blas"
+import "github.com/jingcheng-WU/gonum/blas"
 
 // Dlagtm performs one of the matrix-matrix operations
 //  C = alpha * A * B + beta * C   if trans == blas.NoTrans

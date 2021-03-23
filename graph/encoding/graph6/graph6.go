@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package graph6 implements graphs specified by graph6 strings.
-package graph6 // import "gonum.org/v1/gonum/graph/encoding/graph6"
+package graph6 // import "github.com/jingcheng-WU/gonum/graph/encoding/graph6"
 
 import (
 	"fmt"
@@ -11,10 +11,10 @@ import (
 	"sort"
 	"strings"
 
-	"gonum.org/v1/gonum/graph"
-	"gonum.org/v1/gonum/graph/internal/ordered"
-	"gonum.org/v1/gonum/graph/iterator"
-	"gonum.org/v1/gonum/graph/simple"
+	"github.com/jingcheng-WU/gonum/graph"
+	"github.com/jingcheng-WU/gonum/graph/internal/ordered"
+	"github.com/jingcheng-WU/gonum/graph/iterator"
+	"github.com/jingcheng-WU/gonum/graph/simple"
 )
 
 // Graph is a graph6-represented undirected graph.
