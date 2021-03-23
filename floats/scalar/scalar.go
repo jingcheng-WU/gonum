@@ -17,7 +17,7 @@ func EqualWithinAbs(a, b, tol float64) bool {
 
 // minNormalFloat64 is the smallest normal number. For 64 bit IEEE-754
 // floats this is 2^{-1022}.
-const minNormalFloat64 = 0x1p-1022
+const minNormalFloat64 = 2.2250738585072014e-308
 
 // EqualWithinRel returns true when the difference between a and b
 // is not greater than tol times the greater absolute value of a and b,
