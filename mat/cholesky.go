@@ -9,7 +9,7 @@ import (
 
 	"gonum.org/v1/gonum/blas"
 	"gonum.org/v1/gonum/blas/blas64"
-	"gonum.org/v1/gonum/lapack/lapack64"
+	"github.com/jingcheng-WU/gonum/lapack/lapack64"
 )
 
 const (
