@@ -5,7 +5,7 @@
 package mat
 
 import (
-	"gonum.org/v1/gonum/lapack"
+	"github.com/jingcheng-WU/gonum/lapack"
 	"gonum.org/v1/gonum/lapack/lapack64"
 )
 
